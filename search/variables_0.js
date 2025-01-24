@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['alpha_0',['alpha',['../structSciRooPlot_1_1Plot_1_1Pad_1_1gradient__color__t.html#a390b3b6c0bfeac45f07af5e1931dbe4c',1,'SciRooPlot::Plot::Pad::gradient_color_t']]]
+  ['color_0',['color',['../structSciRooPlot_1_1Plot_1_1layout__t.html#ad380c4977a094c043420d2f9a9cb8018',1,'SciRooPlot::Plot::layout_t']]]
 ];

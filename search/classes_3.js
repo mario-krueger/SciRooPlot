@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['data_0',['Data',['../classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html',1,'SciRooPlot::Plot::Pad']]],
-  ['data_5fdefaults_5ft_1',['data_defaults_t',['../structSciRooPlot_1_1Plot_1_1Pad_1_1data__defaults__t.html',1,'SciRooPlot::Plot::Pad']]],
-  ['datarange_5ft_2',['dataRange_t',['../structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1dataRange__t.html',1,'SciRooPlot::Plot::Pad::Data']]],
-  ['dimension_5ft_3',['dimension_t',['../structSciRooPlot_1_1Plot_1_1dimension__t.html',1,'SciRooPlot::Plot']]]
+  ['is_5ftuple_0',['is_tuple',['../structSciRooPlot_1_1is__tuple.html',1,'SciRooPlot']]],
+  ['is_5ftuple_3c_20tuple_3c_20t_2e_2e_2e_20_3e_20_3e_1',['is_tuple&lt; tuple&lt; T... &gt; &gt;',['../structSciRooPlot_1_1is__tuple_3_01tuple_3_01T_8_8_8_01_4_01_4.html',1,'SciRooPlot']]],
+  ['is_5fvector_2',['is_vector',['../structSciRooPlot_1_1is__vector.html',1,'SciRooPlot']]],
+  ['is_5fvector_3c_20vector_3c_20t_2c_20a_20_3e_20_3e_3',['is_vector&lt; vector&lt; T, A &gt; &gt;',['../structSciRooPlot_1_1is__vector_3_01vector_3_01T_00_01A_01_4_01_4.html',1,'SciRooPlot']]]
 ];

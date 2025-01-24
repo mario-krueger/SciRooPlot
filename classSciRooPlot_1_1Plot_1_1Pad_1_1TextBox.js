@@ -13,6 +13,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox =
     [ "SetText", "classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox.html#a500b4554b22c509cf16fa1753427c5f1", null ],
     [ "Plot", "classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox.html#a5990d862f02df09863cbba4e164ca22c", null ],
     [ "PlotManager", "classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox.html#a2b1d626215c8a4230fcbf991a3c2cf16", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mText", "classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox.html#ac6d3536987b358090416530212a33a97", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1TextBox.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

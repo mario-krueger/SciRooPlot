@@ -1,6 +1,5 @@
 var classSciRooPlot_1_1Plot =
 [
-    [ "dimension_t", "structSciRooPlot_1_1Plot_1_1dimension__t.html", "structSciRooPlot_1_1Plot_1_1dimension__t" ],
     [ "layout_t", "structSciRooPlot_1_1Plot_1_1layout__t.html", "structSciRooPlot_1_1Plot_1_1layout__t" ],
     [ "Pad", "classSciRooPlot_1_1Plot_1_1Pad.html", "classSciRooPlot_1_1Plot_1_1Pad" ],
     [ "Plot", "classSciRooPlot_1_1Plot.html#af8b70ae939bd2623e5b1bd47f7c276b8", null ],
@@ -38,16 +37,7 @@ var classSciRooPlot_1_1Plot =
     [ "SetPlotTemplateName", "classSciRooPlot_1_1Plot.html#a76077655e1de4fb31763a089d8b6b13c", null ],
     [ "SetTransparent", "classSciRooPlot_1_1Plot.html#ac69b55efa3366dca08e8d94c306e0f5a", null ],
     [ "SetWidth", "classSciRooPlot_1_1Plot.html#a59e3492aad7f553683b4045cfbd4605e", null ],
-    [ "UpdateUniqueName", "classSciRooPlot_1_1Plot.html#a27cbc2c2184099fd65d7f10e07e16a65", null ],
     [ "operator+", "classSciRooPlot_1_1Plot.html#a15b68696021b5c05f73b820196caa4e0", null ],
     [ "PlotManager", "classSciRooPlot_1_1Plot.html#a2b1d626215c8a4230fcbf991a3c2cf16", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mFigureCategory", "classSciRooPlot_1_1Plot.html#ab8ca48fb2831161c59c7ce33b1d51450", null ],
-    [ "mFigureGroup", "classSciRooPlot_1_1Plot.html#a79318e0f5d355146187cf64992653a14", null ],
-    [ "mFill", "classSciRooPlot_1_1Plot.html#a214235d21a74a0544cee98cc9f6bdc46", null ],
-    [ "mName", "classSciRooPlot_1_1Plot.html#a5066ca227635664b0946654746d13203", null ],
-    [ "mPads", "classSciRooPlot_1_1Plot.html#a7214b9e8aa65662d9a192edd5734f656", null ],
-    [ "mPlotDimensions", "classSciRooPlot_1_1Plot.html#a75676c4d8e5599220dde18cf522ba274", null ],
-    [ "mPlotTemplateName", "classSciRooPlot_1_1Plot.html#a65c481603b2fff32907f99ad1cd3c944", null ],
-    [ "mUniqueName", "classSciRooPlot_1_1Plot.html#a7287da73e039ebadfc762e8fe2e998a6", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

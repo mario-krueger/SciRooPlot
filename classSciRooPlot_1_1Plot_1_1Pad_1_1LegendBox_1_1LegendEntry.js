@@ -35,12 +35,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry =
     [ "SetTextFont", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a4d7086773ac085e28dc15b98136e2ce9", null ],
     [ "SetTextSize", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a3b4b10902d5de54215305cb640d041ae", null ],
     [ "LegendBox", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a6640ceb0f0765baa2ddc6f09bfe3424c", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mDrawStyle", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a6c0d9f71f2f7f476007a191c3a1e0ac5", null ],
-    [ "mFill", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a6f262fbb3c815730e3709d3b10bcc9f0", null ],
-    [ "mLabel", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#aa2981fec5bc5a66e2106638ee885a77f", null ],
-    [ "mLine", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a68e1d034ec46adb18c184bd5d9d4c000", null ],
-    [ "mMarker", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a430a0f8b92f88e818fb28136db899760", null ],
-    [ "mRefDataName", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#aba354ae6154990fe26a46bea231c44cb", null ],
-    [ "mText", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a56f9afe3920c2daf88a77214e8e20970", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox_1_1LegendEntry.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

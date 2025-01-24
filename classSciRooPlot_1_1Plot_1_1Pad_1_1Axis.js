@@ -1,7 +1,5 @@
 var classSciRooPlot_1_1Plot_1_1Pad_1_1Axis =
 [
-    [ "axisRange_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Axis_1_1axisRange__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Axis_1_1axisRange__t" ],
-    [ "axisTextProperties_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Axis_1_1axisTextProperties__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Axis_1_1axisTextProperties__t" ],
     [ "Axis", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#afcf8691168dc84244ad89fbe320bc1c5", null ],
     [ "Axis", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a7d5839c7da75dbc72e7740204523bc64", null ],
     [ "Axis", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#ae01810fafc4b07b232e2b4dae260619f", null ],
@@ -57,20 +55,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1Axis =
     [ "SetTitleSize", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#ae08601d2adeec5ececae300ac8001989", null ],
     [ "Plot", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a5990d862f02df09863cbba4e164ca22c", null ],
     [ "PlotManager", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a2b1d626215c8a4230fcbf991a3c2cf16", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mAxisColor", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#aa439f22454465c58df2389876d8f465a", null ],
-    [ "mIsGrid", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#ab5546e712e65c4f698b2114d11c46fea", null ],
-    [ "mIsLog", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#add94ec109179e94f14cc881e54019b80", null ],
-    [ "mIsNoExponent", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#abf0adbdf5b0b2e11eb3ee2da79b45350", null ],
-    [ "mIsOppositeTicks", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a0687c40d61313e25a6960f0bd735a9c1", null ],
-    [ "mLabelProperties", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a54bbda4708307cd63cc8b1fdda75564c", null ],
-    [ "mMaxDigits", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a5f09bb4c0b264ab00840021d27752bb1", null ],
-    [ "mName", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a22e3b05304490b9a8cd42424200070c7", null ],
-    [ "mNumDivisions", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#aca519cefee5c8b3d9d44de478fa290bf", null ],
-    [ "mRange", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#afe45473f574a6f4425e75a2ff2a8c558", null ],
-    [ "mTickLength", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a5d1f14c5ddce5674b56c895813afea8a", null ],
-    [ "mTickOrientation", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a066964cb45644d35155baa27080b431a", null ],
-    [ "mTimeFormat", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#ad3ad86f27d71c94f5f0658d3c30a6231", null ],
-    [ "mTitle", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a42b14c85c67322cb05f08dd078455263", null ],
-    [ "mTitleProperties", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a8a00112909d7bb1eac55996b129f92b3", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1Axis.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

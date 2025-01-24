@@ -64,9 +64,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio =
     [ "UnsetRangeY", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a067cff39e5306020679f2962888c028d", null ],
     [ "Plot", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a5990d862f02df09863cbba4e164ca22c", null ],
     [ "PlotManager", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a2b1d626215c8a4230fcbf991a3c2cf16", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mDenomInputIdentifier", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#aa8ea68d8c2ba08130021497a8d746e0d", null ],
-    [ "mDenomName", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a30d6c97a0def569af4b3a6b0e312c96d", null ],
-    [ "mIsCorrelated", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a9ab3c83b824f422ef98a92d564e70535", null ],
-    [ "mProjInfoDenom", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a0793e0573185feb32407e42db4cb0aa9", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1Ratio.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

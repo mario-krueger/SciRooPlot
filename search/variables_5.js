@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['gnamegroupseparator_0',['gNameGroupSeparator',['../namespaceSciRooPlot.html#a601b3256ab4df5364354af81c86c817d',1,'SciRooPlot']]],
-  ['graph_1',['graph',['../structSciRooPlot_1_1Plot_1_1Pad_1_1data__defaults__t.html#a881e99dda7407af5e25c3a84cf197739',1,'SciRooPlot::Plot::Pad::data_defaults_t']]]
+  ['scale_0',['scale',['../structSciRooPlot_1_1Plot_1_1layout__t.html#a9616ccc9791680d0a3267c946f6fbe28',1,'SciRooPlot::Plot::layout_t']]],
+  ['style_1',['style',['../structSciRooPlot_1_1Plot_1_1layout__t.html#a1d8f6b863ba209f68708e0a7196b8d4e',1,'SciRooPlot::Plot::layout_t']]]
 ];

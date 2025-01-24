@@ -1,8 +1,5 @@
 var classSciRooPlot_1_1Plot_1_1Pad_1_1Data =
 [
-    [ "dataRange_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1dataRange__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1dataRange__t" ],
-    [ "legend_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1legend__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1legend__t" ],
-    [ "modify_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1modify__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1modify__t" ],
     [ "proj_info_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1proj__info__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Data_1_1proj__info__t" ],
     [ "Data", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#af82c040424b07a2e463558e49434009d", null ],
     [ "Data", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a1f9a76abcd1a0b7e00210586177eb1ad", null ],
@@ -89,23 +86,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1Data =
     [ "UnsetRangeY", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#abe8503c26c6cacdb00e112c40540d710", null ],
     [ "Plot", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a5990d862f02df09863cbba4e164ca22c", null ],
     [ "PlotManager", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a2b1d626215c8a4230fcbf991a3c2cf16", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mContours", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#acfe9b2a012e891ec41c0447b8fde2a7c", null ],
-    [ "mDefinesFrame", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#aba1d322e9e3d65769a8ba4da2ffad687", null ],
-    [ "mDrawingOptionAlias", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#adc757c56bd71139f046fcd98aeaa0596", null ],
-    [ "mDrawingOptions", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a84417eabe4cf8244b1cb8b32e889aa23", null ],
-    [ "mFill", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a1c736af75075b3ce92b0faef8ef95331", null ],
-    [ "mInputIdentifier", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#ad1e2073ac58bc52e711cd89ee299c913", null ],
-    [ "mLegend", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#abd6346df4165bed9c7630e3f022222d3", null ],
-    [ "mLine", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#aa37f642d32aa459ee1d7847c0c8a5c06", null ],
-    [ "mMarker", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a6c92a953eaced3219243eec3c98d24c8", null ],
-    [ "mModify", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#afdc44fe6bb6fcabfc599156b8698427e", null ],
-    [ "mName", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a32b3f3c6629e8ff38340ef17d2bc9431", null ],
-    [ "mNContours", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#afae47c4675f6410fed9189a7cadb2e5b", null ],
-    [ "mProjInfo", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a5c01902b51a71c3083e0de05db7f6147", null ],
-    [ "mRangeX", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#ab037db7f6f40f9829372e289c9c7ff1f", null ],
-    [ "mRangeY", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a7a32e13dbd716fe5e7c409a76c88fb67", null ],
-    [ "mScaleRange", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#aea824d5349c9a70c820fcaab94c6ddaa", null ],
-    [ "mTextFormat", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#aa61e6e198e33ae80910fd14233565895", null ],
-    [ "mType", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#afb256a3cc81c4c0c95a179b837b8209c", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1Data.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

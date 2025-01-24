@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['vector_5fto_5fstring_0',['vector_to_string',['../namespaceSciRooPlot.html#a8cdcce8b0f11807207755460f0bab4da',1,'SciRooPlot']]],
-  ['view_5fdefaults_5ft_1',['view_defaults_t',['../structSciRooPlot_1_1Plot_1_1Pad_1_1view__defaults__t.html',1,'SciRooPlot::Plot::Pad']]]
+  ['warning_0',['WARNING',['../Logging_8h.html#af4745296f80928adeb0fe0eae6352580',1,'Logging.h']]],
+  ['white_5f_1',['WHITE_',['../Logging_8h.html#a4be05c8e2fbdc096b9f9e1921bfc2675',1,'Logging.h']]]
 ];

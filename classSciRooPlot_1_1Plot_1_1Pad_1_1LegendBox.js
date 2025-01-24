@@ -23,9 +23,9 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox =
     [ "GetNumColumns", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#ad7402fcc766c639d6ad8122377d17f62", null ],
     [ "GetPropertyTree", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a22da71c55051a1df2c32f1f09733e79d", null ],
     [ "GetTitle", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#aaf55fb53b1c6da7aef665d95d52a82aa", null ],
-    [ "MergeLegendEntries", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a7717f63e5d36ff106e50e77f4be8ff24", null ],
     [ "operator=", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a8c097d15c139a4939c3a18167f4a6753", null ],
     [ "operator=", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a5922fac44e02932283cef730e504a89f", null ],
+    [ "SetDefaultColor", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#acb813603b87cb27c1b5113298d614a1b", null ],
     [ "SetDefaultDrawStyle", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a22b54aab93d2c246bcc2368aed415d34", null ],
     [ "SetDefaultFillColor", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a9737576cd2368e603e40ee2a9a0e64d9", null ],
     [ "SetDefaultFillOpacity", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#ac2ba129537990d018667388011a8a63f", null ],
@@ -40,13 +40,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox =
     [ "SetTitle", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a9e05f6302a238ad32986b36a23c43e47", null ],
     [ "Plot", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a5990d862f02df09863cbba4e164ca22c", null ],
     [ "PlotManager", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a2b1d626215c8a4230fcbf991a3c2cf16", null ],
-    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ],
-    [ "mDrawStyleDefault", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#aca54a2439d6f6767673e2a1498a2a7c0", null ],
-    [ "mFillDefault", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a4e83def152ad6ef23dc7d01552a6015a", null ],
-    [ "mLegendEntries", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a552308444deb230879904b21641ca0f5", null ],
-    [ "mLegendEntriesUser", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a0db3234cfe5d2f95f7e27615707f94ff", null ],
-    [ "mLineDefault", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a25e8dae202a20678ee77a7007a412783", null ],
-    [ "mMarkerDefault", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a6ee5acf14f94f65c63a9d899a65b446a", null ],
-    [ "mNumColumns", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#ae642ea446cf8024040d195429a604f4c", null ],
-    [ "mTitle", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a566b0db5dc4d6bca1ef15f79fa43bc90", null ]
+    [ "PlotPainter", "classSciRooPlot_1_1Plot_1_1Pad_1_1LegendBox.html#a747cc6f93eb9a2b061eed2bdd80d204e", null ]
 ];

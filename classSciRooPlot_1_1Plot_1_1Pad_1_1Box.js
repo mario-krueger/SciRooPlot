@@ -1,12 +1,8 @@
 var classSciRooPlot_1_1Plot_1_1Pad_1_1Box =
 [
-    [ "position_t", "structSciRooPlot_1_1Plot_1_1Pad_1_1Box_1_1position__t.html", "structSciRooPlot_1_1Plot_1_1Pad_1_1Box_1_1position__t" ],
     [ "~Box", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a58a354c3ad8384e626616cc64546b4c2", null ],
     [ "Box", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a910188debd1f7534f3d9fdb1720abd95", null ],
     [ "Box", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a6c8c5818a91112e6163d277f1c8c0707", null ],
-    [ "Box", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a973265121814fd3fccb997c9967813dd", null ],
-    [ "Box", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a0bc0456ac9d669b6555c1ab9a7a5683e", null ],
-    [ "Box", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#ae164d9abcccb7b529922db8332684212", null ],
     [ "GetBorderColor", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a802e9a73cf5498ed756d96239ca3efe8", null ],
     [ "GetBorderStyle", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#adf0e3076bf81df0cc361303bbf95c0d5", null ],
     [ "GetBorderWidth", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#af4f11586a6ab3be80b30df41295bf5c3", null ],
@@ -17,7 +13,6 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1Box =
     [ "GetTextColor", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#af733fd69780411f2163494855d64f8cc", null ],
     [ "GetTextFont", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a8fca3bca14d6dd186e2753493813bc51", null ],
     [ "GetTextSize", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#aa1b9b6aacc3c8b87325d8c47fe88eb9d", null ],
-    [ "GetThis", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a616deed64079cdcee7053b95ea2ae199", null ],
     [ "GetXPosition", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a5613228bf92c86d50b8e903230455589", null ],
     [ "GetYPosition", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a05510a62b4c3c1390a00cb46ec23fa6b", null ],
     [ "IsAutoPlacement", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#aacc87e19048ef3f46a0633c4e5ceca70", null ],
@@ -40,10 +35,5 @@ var classSciRooPlot_1_1Plot_1_1Pad_1_1Box =
     [ "SetTextFont", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a5fcc7c62a2a66d68dc1b8d2982294f86", null ],
     [ "SetTextSize", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#ad9531d9d20867c017b8f21a801136aad", null ],
     [ "SetTransparent", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a5c3b93915d302fe3efb037dba0e54672", null ],
-    [ "SetUserCoordinates", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a7b2d43b40ff4f60dd915e9044656d535", null ],
-    [ "BoxType", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a7bcd4747269fb891edcf2cdd9177d94d", null ],
-    [ "mBorder", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#ac2e32cdb59b1cd45c94f1925d421897c", null ],
-    [ "mFill", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#ab624e8b07e407e66220d3926bffd8d28", null ],
-    [ "mPos", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#ae88c92cd72f32e5d1782bce518a8b1a7", null ],
-    [ "mText", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#ae14626b56eec3cd19d7f89668086ef5f", null ]
+    [ "SetUserCoordinates", "classSciRooPlot_1_1Plot_1_1Pad_1_1Box.html#a7b2d43b40ff4f60dd915e9044656d535", null ]
 ];
